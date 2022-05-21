@@ -1,2 +1,2 @@
-# sistemas-de-gest-o-linguagem-c
+# sistemas-de-gestao-linguagem-c
 Este repósitorio contem aplicações de gestão feita na linguagem c, contém 3 app´s...
